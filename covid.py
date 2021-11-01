@@ -15,7 +15,7 @@ import time
 
 from cowin_api import CoWinAPI
 
-pin_code = ["411027", "411007", '411057', '411044', '411033']
+pin_code = ["411027", "411007", '411057', '411044', '411033'] #add all the pincodes where you would like to search for vaccine slots
 date = '09-05-2021'  # Optional. Default value is today's date
 min_age_limit = 45  # Optional. By default returns centers without filtering by min_age_limit
 
